@@ -119,7 +119,7 @@ This module is released under the [MIT License](LICENSE).
 
 ## Disclaimer
 
-This module is not officially affiliated with WhatsApp or Facebook. It's an independent project developed by the community.
+This module is not officially affiliated with WhatsApp or Facebook. It's an independent project developed by @gshubham533 @YesYouWhyOhJee @Shlok221B @Shashanksingh8208
 
 **Note:** Make sure to replace placeholders (`your_phone_number_id`, `your_bearer_token`, etc.) with actual values when using the module.
 
