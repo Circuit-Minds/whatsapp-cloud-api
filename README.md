@@ -1,4 +1,3 @@
-# whatsapp-cloud-api
 # WhatsApp Cloud API Python Module
 
 The **whatsapp-cloud-api** Python module provides a simple and convenient way to interact with WhatsApp Cloud API. This module allows you to send various types of messages, including text messages, images, audio, videos, documents, and media messages. It abstracts away the complexity of the API calls and provides easy-to-use methods for sending different types of messages to WhatsApp users.
