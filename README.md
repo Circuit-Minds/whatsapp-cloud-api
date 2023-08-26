@@ -16,7 +16,7 @@ pip install whatsapp-cloud-api
 To use the **whatsapp-cloud-api** module, you need to import it into your Python script and create an instance of the `WhatsApp` class by providing the required parameters: `phone_number_id` and `bearer_token`.
 
 ```python
-from whatsapp_cloud_api import WhatsApp
+from whatsapp_cloud_api.whatsappcloudapi import WhatsApp
 
 phone_number_id = "your_phone_number_id"
 bearer_token = "your_bearer_token"

@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "whatsapp-cloud-api"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="Shubham Gupta", email="gshubham533@gmail.com" },
   { name="Shlok Sawant", email="shlok.sawant5595@gmail.com" },
